@@ -1,5 +1,7 @@
 # Kapalak
 
+Build Status : ![Node.js CI](https://github.com/abmptit/kapalak/workflows/Node.js%20CI/badge.svg)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0-next.4.
 
 ## Development server
