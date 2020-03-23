@@ -6,4 +6,4 @@ RUN npm install
 COPY . .
 RUN npm ci
 RUN npm run build
-RUN npm test
+# RUN npm test
