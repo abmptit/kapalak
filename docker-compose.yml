@@ -1,0 +1,12 @@
+version: '2'
+networks:
+    dockernet:
+        external: true
+services:
+  kapalak:
+    container_name: kapalak
+    build:
+      context: ./
+    ports:
+      - 80:80
+      - 443:443
